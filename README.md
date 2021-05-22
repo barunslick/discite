@@ -5,6 +5,7 @@
 ## CONTENTS:
 ### Python
 - [ ] [Fluent Python: Clear, Concise, and Effective Programming](https://www.goodreads.com/book/show/22800567-fluent-python)
+- [ ] [Python Design Patterns](https://python-patterns.guide/)
 
 ### Maths for machine learning
 
