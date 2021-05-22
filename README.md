@@ -4,7 +4,7 @@
 
 ## CONTENTS:
 ### Python
-- [ ] [Fluent Python: Clear, Concise, and Effective Programming] (https://www.goodreads.com/book/show/22800567-fluent-python)
+- [ ] [Fluent Python: Clear, Concise, and Effective Programming](https://www.goodreads.com/book/show/22800567-fluent-python)
 
 ### Maths for machine learning
 
