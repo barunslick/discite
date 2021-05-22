@@ -4,7 +4,7 @@
 
 ## CONTENTS:
 ### Python
-
+- [ ] [Fluent Python: Clear, Concise, and Effective Programming]
 
 ### Maths for machine learning
 
